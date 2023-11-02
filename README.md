@@ -1,17 +1,16 @@
-# Profil GitHub - [Nama Anda]
+# GitHub Profil- Restu setiawn
 
-Selamat datang di profil GitHub saya! Saya adalah seorang pengembang perangkat lunak dengan keahlian dalam pengembangan web dan teknologi terkait. Saya berkomitmen untuk menghasilkan kode berkualitas tinggi dan proyek yang bermanfaat.
+Hey there, welcome to my GitHub profile! I'm a tech enthusiast with a knack for web development and related technologies. I'm all about crafting high-quality code and projects that pack a punch.
 
-## Tentang Saya
+## About Me
 
-- **Nama**: [Nama Anda]
-- **Lokasi**: [Lokasi Anda]
-- **Email**: [Alamat Email Anda]
-- **LinkedIn**: [Profil LinkedIn Anda]
+- **Name**: Restu Setiawan
+- **Location**: Rakit,Banjarnegara
+- **Email**:restusetiawan948@gmail.com
+- **LinkedIn**: 
+## Skills
 
-## Keahlian
-
-### Bahasa Pemrograman
+### Programming Languages
 
 - **HTML**
 - **CSS**
@@ -19,39 +18,39 @@ Selamat datang di profil GitHub saya! Saya adalah seorang pengembang perangkat l
 - **React.js**
 - **Node.js**
 
-### Database
+### Databases
 
 - **MySQL**
 
-### Teknologi Lainnya
+### Other Tech
 
 - **Bootstrap**
 - **Linux**
 
-Saya senang belajar dan terus meningkatkan keterampilan saya dalam pengembangan web dan pemrograman.
+I'm always eager to learn and continually level up my skills in web development and coding.
 
-## Proyek Unggulan
+## Noteworthy Projects
 
-Berikut adalah beberapa proyek yang mungkin menarik Anda:
+Here are a few projects that might catch your eye:
 
-1. **[Nama Proyek 1](link_proyek_1)** - Deskripsi singkat proyek pertama.
+1. **[Project Name 1](project_link_1)** - A brief description of the first project.
 
-2. **[Nama Proyek 2](link_proyek_2)** - Deskripsi singkat proyek kedua.
+2. **[Project Name 2](project_link_2)** - A brief description of the second project.
 
-## Kontribusi
+## Collaboration
 
-Saya terbuka untuk kolaborasi dan kontribusi pada proyek-proyek terbuka. Jika Anda memiliki ide atau proyek yang memerlukan keterampilan saya, jangan ragu untuk menghubungi saya. Saya berharap dapat berkontribusi pada komunitas pengembang dan terlibat dalam proyek-proyek yang bermanfaat.
+I'm open to collaborating and contributing to open-source projects. If you have an idea or a project that could use my skills, feel free to reach out to me. I'm keen on giving back to the developer community and getting involved in impactful projects.
 
-## Cara Menghubungi Saya
+## Get in Touch
 
-Jika Anda ingin berdiskusi, berkolaborasi, atau memiliki pertanyaan, jangan ragu untuk menghubungi saya:
+If you'd like to chat, collaborate, or have any questions, don't hesitate to get in touch:
 
-- **Email**: [Alamat Email Anda]
-- **LinkedIn**: [Profil LinkedIn Anda]
+- **Email**: [restusetiawan948@gmail.com]
+- **LinkedIn**: [Your LinkedIn Profile]
 
-Saya senang berkenalan dengan rekan-rekan pengembang dan berbagi pengetahuan.
+I'm always up for meeting fellow developers and sharing knowledge.
 
-Terima kasih atas kunjungan Anda ke profil GitHub saya. Semoga Anda menemukan proyek-proyek yang menarik!
+Thanks for dropping by my GitHub profile. Hope you find some exciting projects!
 
-Terima kasih,
-[Nama Anda]
+Cheers,
+Restu Setiawan
