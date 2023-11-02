@@ -1,56 +1,19 @@
-# GitHub Profil- Restu setiawn
+<h1 align="center">Hi 👋, I'm Restu Setiawan</h1>
+<h3 align="center">I'm a tech enthusiast who loves all things programming and technology.</h3>
 
-Hey there, welcome to my GitHub profile! I'm a tech enthusiast with a knack for web development and related technologies. I'm all about crafting high-quality code and projects that pack a punch.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=reztuzt&label=Profile%20views&color=0e75b6&style=flat" alt="reztuzt" /> </p>
 
-## About Me
+- 🌱 I’m currently learning **Reactjs**
 
-- **Name**: Restu Setiawan
-- **Location**: Rakit,Banjarnegara
-- **Email**:restusetiawan948@gmail.com
-- **LinkedIn**: 
-## Skills
+- 📫 How to reach me **restusetiawan948@gmail.com**
 
-### Programming Languages
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **React.js**
-- **Node.js**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-### Databases
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=reztuzt&show_icons=true&locale=en&layout=compact" alt="reztuzt" /></p>
 
-- **MySQL**
-
-### Other Tech
-
-- **Bootstrap**
-- **Linux**
-
-I'm always eager to learn and continually level up my skills in web development and coding.
-
-## Noteworthy Projects
-
-Here are a few projects that might catch your eye:
-
-1. **[Project Name 1](project_link_1)** - A brief description of the first project.
-
-2. **[Project Name 2](project_link_2)** - A brief description of the second project.
-
-## Collaboration
-
-I'm open to collaborating and contributing to open-source projects. If you have an idea or a project that could use my skills, feel free to reach out to me. I'm keen on giving back to the developer community and getting involved in impactful projects.
-
-## Get in Touch
-
-If you'd like to chat, collaborate, or have any questions, don't hesitate to get in touch:
-
-- **Email**: [restusetiawan948@gmail.com]
-- **LinkedIn**: [Your LinkedIn Profile]
-
-I'm always up for meeting fellow developers and sharing knowledge.
-
-Thanks for dropping by my GitHub profile. Hope you find some exciting projects!
-
-Cheers,
-Restu Setiawan
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reztuzt&" alt="reztuzt" /></p>
